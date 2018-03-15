@@ -24,5 +24,6 @@ def using_last(array)
 end
 
 def using_size(array)
-
+ array.size
+ #counts total ammount of elements in an array.
 end

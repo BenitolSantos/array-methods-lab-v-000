@@ -19,7 +19,8 @@ def using_first(array)
 end
 
 def using_last(array)
-
+ array.last
+ #pulls last element of array
 end
 
 def using_size(array)

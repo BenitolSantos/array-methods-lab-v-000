@@ -15,6 +15,7 @@ end
 
 def using_first(array)
  array.first
+ #pulls first element of array
 end
 
 def using_last(array)
